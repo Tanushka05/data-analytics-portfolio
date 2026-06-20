@@ -47,6 +47,8 @@ Sales performance, customer behavior, product insights, and revenue analysis.
 - SQL
 - Excel
 
-LinkedIn: [Add your LinkedIn profile link]
+## Contacts
+
+LinkedIn: (https://www.linkedin.com/in/tanushka-singh-864696295)
 
 GitHub: https://github.com/Tanushka05
